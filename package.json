@@ -2,13 +2,12 @@
   "name": "task-flow-desktop",
   "version": "1.0.0",
   "description": "Desktop UI for Task Flow!",
-  "main": "main.js",
+  "main": "src/runtime/main.js",
   "dependencies": {},
   "devDependencies": {
     "electron": "^4.1.4"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron ."
   },
   "author": "Miguel Fontes",
