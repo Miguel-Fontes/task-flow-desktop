@@ -5,7 +5,8 @@
   "main": "src/runtime/main.js",
   "dependencies": {},
   "devDependencies": {
-    "electron": "^4.1.4"
+    "electron": "^4.1.4",
+    "remote": "^0.2.6"
   },
   "scripts": {
     "start": "electron ."
